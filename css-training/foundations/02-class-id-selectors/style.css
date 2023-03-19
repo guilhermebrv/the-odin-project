@@ -1,0 +1,19 @@
+.common {
+    background-color: #ff000060;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.element3 {
+    font-size: 24px;
+}
+
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#element4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
